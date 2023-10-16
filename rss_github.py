@@ -36,7 +36,7 @@ def edit_hosts(file,new_hosts):
 
 def main():
     hosts_url = 'https://hosts.gitcdn.top/hosts.txt'
-    hosts = '\etc\hosts'
+    hosts = '/etc/hosts'
     if os.path.exists(hosts) == False:
         print('hosts文件不存在，请检查hosts路径')
         exit()
