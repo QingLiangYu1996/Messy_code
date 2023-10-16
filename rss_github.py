@@ -9,6 +9,7 @@ import os
 作者：清凉禹
 
 cron: 0 8 * * *
+const $ = new Env("github提速");
 """
 
 def get_hosts(url):
