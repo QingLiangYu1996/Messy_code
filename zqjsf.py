@@ -11,7 +11,7 @@ from urllib.parse import parse_qs
 from datetime import datetime
  
 """"
-
+中青看点极速版，每天5块。
 活动入口微信打开 http://mtw.so/6vJSDi
 
 export zqurl='xxxxxxx'
