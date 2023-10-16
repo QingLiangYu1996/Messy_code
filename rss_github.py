@@ -10,7 +10,7 @@ hosts来源:
         https://github.com/Licoy/fetch-github-hosts
         https://hosts.gitcdn.top/hosts.txt
 
-cron: 0 8 * * *
+cron: 10/1 * * * *
 const $ = new Env("github提速");
 """
 
