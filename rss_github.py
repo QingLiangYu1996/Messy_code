@@ -3,7 +3,7 @@ import re
 import os
 
 """
-订阅更新hosts使github访问通畅
+订阅更新hosts使github访问通畅,如果你本身github可以正常访问，请尽量不要使用本脚本，有可能导致降速。
 作者：清凉禹
 
 hosts来源:  
